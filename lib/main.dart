@@ -17,10 +17,10 @@ class MyApp extends StatelessWidget {
             children: <Widget>[
               CircleAvatar(
                 radius: 50.0,
-                backgroundImage: AssetImage('images/avatar.jpg'),
+                backgroundImage: AssetImage('images/avatar2.jpg'),
               ),
               Text(
-                "Di Bo Vuot Rau",
+                "BNMBNVCVV",
                 style: TextStyle(
                   fontFamily: 'Pacifico',
                   fontSize: 40.0,

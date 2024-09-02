@@ -57,6 +57,7 @@ flutter:
 
   assets:
      - images/avatar.jpg
+     - images/avatar2.jpg
   fonts:
     - family: Pacifico
       fonts:
